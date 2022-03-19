@@ -1,0 +1,7 @@
+.btnCart {
+  position: fixed !important;
+  bottom: 10% !important;
+  left: 20px !important;
+  height: 50px !important;
+  padding: 15px 27px !important;
+}
